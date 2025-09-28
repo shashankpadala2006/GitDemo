@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(){
+
+   printf("I like bikes\n");
+   printf("it realiy goes fast!!\n");
+    return 0;        
+}
